@@ -1,11 +1,11 @@
 # MacParsley
 
-Downloads and updates for MacParsley, a Mac app for recording, transcribing and summarizing meetings.
+This page holds MacParsley's downloads and updates. Everything else is on **[macparsley.com](https://macparsley.com)**.
 
-**[Download the latest version](https://github.com/MacParsley/MacParsley-Releases/releases/latest)**
+- **[Download MacParsley](https://macparsley.com)**
+- **[Buy MacParsley](https://macparsley.com/buy.html)**
+- **[User guide](https://macparsley.com/guide/index.html)**
 
-MacParsley updates itself: choose **MacParsley → Check for Updates…**, or let it check automatically (Settings → General → Updates).
+MacParsley updates itself. To check now, choose **MacParsley → Check for Updates…**.
 
-**Need help?** Email MacParsley@icloud.com (in the app: Help → Contact Support…, which can attach diagnostics), or [open an issue](https://github.com/MacParsley/MacParsley-Releases/issues). Issues are public, so please leave out anything private from your meetings.
-
-This repository holds only the released app; there is no source code here.
+**Support:** in the app, choose **Help → Contact Support…**, or email **support@macparsley.com**.
